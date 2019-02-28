@@ -3,3 +3,5 @@
 Created a Client-Server MVC Designed to automate manual inventory tracking system used by the EECS Department.
 
 Technologies Used: C#, .NET Framework, ADO.NET, Windows Forms, MySQL
+
+Refer to EECSITS
