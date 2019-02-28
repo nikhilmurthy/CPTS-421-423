@@ -39,7 +39,7 @@ namespace NewITS
             string server = "localhost";
             string database = "imdb";
             string uid = "root";
-            string pwd = "sada";
+            string pwd = "my_pwd"; // Please change me
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" + 
 		    database + ";" + "UID=" + uid + ";" + "PASSWORD=" + pwd + ";";
