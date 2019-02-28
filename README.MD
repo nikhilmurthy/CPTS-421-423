@@ -4,4 +4,4 @@ Created a Client-Server MVC Designed to automate manual inventory tracking syste
 
 Technologies Used: C#, .NET Framework, ADO.NET, Windows Forms, MySQL
 
-Refer to EECSITS for latest code updates
+Refer to EECSITS folder for latest code updates
